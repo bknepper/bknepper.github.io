@@ -1,34 +1,33 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
+# <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: Ben_Knepper_headshot.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a senior at UC Berkeley in my final semester double majoring in physics and philosophy and minoring in mathematics. My research interests generally lie at the intersections of quantum information science with high energy physics, in both theory and experiment.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently a student research employee at Lawrence Berkeley National Laboratory working with Dr. Daniel Carney in the [Quantum Measurements Group](https://quantum-measurement.lbl.gov/). Most recently, I have been engaged in a theoretical honors bachelor's thesis on quantum measurements in holography, with the co-supervision of Prof. Luca Iliesiu and Prof. Geoff Penington. Part of this work will involve simulating a quantum information scrambling on superconducting qutrits in collaboration with the [Advanced Quantum Testbed](https://aqt.lbl.gov/). Previously, I performed particle physics simulations for the upcoming quantum sensing experiment [QuIPS (Quantum Invisible Particle Sensor)](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.010315).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to transferring to Berkeley, I took a gap year to conduct axion dark matter research full time at Fermilab and UChicago on the [Broadband Reflector Experiment for Axion Detection (BREAD)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.171002).
+<!-- [subreddit](http://reddit.com) -->
