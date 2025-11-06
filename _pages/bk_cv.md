@@ -1,13 +1,11 @@
 ---
-layout: cv
+layout: page
 permalink: /bk_cv/
 title: CV
-description: 
-cv_pdf: Benjamin_Knepper_CV_9-8-25.pdf
+# description: 
 nav: true
-nav_order: 6
+nav_order: 3
+redirect: /assets/pdf/Benjamin_Knepper_CV_10-14-25.pdf
 ---
 
-Ben Knepper CV
-
-<!-- <a href="assets/pdf/Benjamin_Knepper_CV_9-8-25.pdf" target="_blank">Ben Knepper CV PDF</a> -->
+Will redirect to CV momentarily...
