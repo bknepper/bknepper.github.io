@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/bk_cv/";
+          },
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -443,6 +443,36 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-sensing-information-scrambling",
+          title: 'Sensing Information Scrambling',
+          description: "Part of senior thesis",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/AQT_project/";
+            },},{id: "projects-quantum-error-correction-and-bulk-reconstruction-via-the-happy-code",
+          title: 'Quantum Error Correction and Bulk Reconstruction via the HaPPY Code',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/HaPPY_code/";
+            },},{id: "projects-quips-experiment",
+          title: 'QuIPS Experiment',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/QuIPS/";
+            },},{id: "projects-squeezed-light-and-epr-correlations",
+          title: 'Squeezed Light and EPR Correlations',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/quantumOptics_squeezing/";
+            },},{id: "projects-hawking-radiation-and-the-unruh-effect",
+          title: 'Hawking Radiation and the Unruh Effect',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/unruh_hawking/";
+            },},{id: "projects-quantum-measurements-in-holography",
+          title: 'Quantum Measurements in Holography',
+          description: "Part of senior thesis",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/wormhole_project/";
             },},{
         id: 'social-email',
         title: 'email',
