@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a senior at UC Berkeley in my final semester double majoring in physics and philosophy and minoring in mathematics. My research interests generally lie at the intersections of quantum information science, non-equilibrium many-body physics, and fundamental physics, in both theory and experiment.
+I am a senior at UC Berkeley in my final semester double majoring in physics and philosophy and minoring in mathematics. My research interests lie at the intersections of quantum information science, high energy physics, and non-equilibrium many-body physics, in both theory and experiment.
 
 I am currently a student research employee at Lawrence Berkeley National Laboratory working with Dr. Daniel Carney in the [Quantum Measurements Group](https://quantum-measurement.lbl.gov/). Most recently, I have been engaged in a theoretical honors bachelor's thesis on quantum measurements in holographic quantum gravity. Part of this work will involve simulating a quantum information scrambling on superconducting qutrits in collaboration with the [Advanced Quantum Testbed](https://aqt.lbl.gov/). Previously, I performed particle physics simulations for the upcoming quantum sensing experiment [QuIPS (Quantum Invisible Particle Sensor)](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.010315).
 

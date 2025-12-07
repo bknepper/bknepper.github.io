@@ -5,7 +5,8 @@ title: CV
 # description: 
 nav: true
 nav_order: 3
-redirect: /assets/pdf/Benjamin_Knepper_CV_website.pdf
 ---
 
-Will redirect to CV momentarily...
+Link to <a href="/assets/pdf/Benjamin_Knepper_CV_website.pdf?v=20251207" target="_blank" rel="noopener">
+  Benjamin Knepper CV
+</a>
