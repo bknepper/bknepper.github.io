@@ -5,7 +5,7 @@ permalink: /projects/
 # description: A growing collection of your cool projects.
 nav: true
 nav_order: 4
-display_categories: [Current Research, Coursework Final Papers]
+display_categories: [Bachelor's Thesis, Current Research, Coursework Final Papers]
 horizontal: false
 ---
 
