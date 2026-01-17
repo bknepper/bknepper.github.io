@@ -463,6 +463,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/quantumOptics_squeezing/";
+            },},{id: "projects-physics-bachelor-39-s-thesis",
+          title: 'Physics Bachelor&amp;#39;s Thesis',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/senior_thesis/";
             },},{id: "projects-hawking-radiation-and-the-unruh-effect",
           title: 'Hawking Radiation and the Unruh Effect',
           description: "",
