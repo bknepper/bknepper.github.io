@@ -463,8 +463,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/quantumOptics_squeezing/";
-            },},{id: "projects-physics-bachelor-39-s-thesis",
-          title: 'Physics Bachelor&amp;#39;s Thesis',
+            },},{id: "projects-physics-honors-bachelor-39-s-thesis",
+          title: 'Physics Honors Bachelor&amp;#39;s Thesis',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/senior_thesis/";
