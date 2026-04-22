@@ -4,7 +4,7 @@ title: QuIPS Experiment
 description: 
 img: assets/img/QuIPS.jpg
 importance: 3
-category: Current Research
+category: Current and Past Research
 # related_publications: true
 ---
 
