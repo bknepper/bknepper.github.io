@@ -25,15 +25,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I recently graduated in Fall 2025 with a double major in physics and philosophy and minor in mathematics from UC Berkeley, where I will be continuing for a PhD in theoretical physics. My research interests lie at the intersections of quantum information science, quantum gravity, and non-equilibrium many-body physics, with a background in both theory and experiment.
+I am a first-year theoretical physics PhD student at UC Berkeley, working on quantum gravity. My research interests also lie at the intersections with quantum information theory and non-equilibrium many-body physics, with a background in both theory and experiment.
 
-Currently, I am a research intern with Dr. Philipp Höhn at the Okinawa Institute of Science and Technology (OIST) [Qubits and Spacetime Unit](https://www.oist.jp/research/research-units/quast).
+I graduated from UC Berkeley in 2025 with B.A.'s in physics and philosophy, and a minor in mathematics. During 2026, I studied quantum reference frames as a visiting researcher with Dr. Philipp Höhn at the Okinawa Institute of Science and Technology (OIST) [Qubits and Spacetime Unit](https://www.oist.jp/research/research-units/quast), and at the Institute for Quantum Optics and Quantum Information (IQOQI) in Vienna. My bachelor's thesis was co-advised by Dr. Daniel Carney (Lawrence Berkeley National Lab) and Prof. Luca Iliesiu (UC Berkeley) on quantum measurement theory in holography. Within Dr. Carney's [Quantum Measurements Group](https://quantum-measurement.lbl.gov/), I had also worked on the QuIPS quantum sensing experiment searching for sterile neutrinos. Between transferring to Berkeley from Cornell, I spent a year at Fermilab and the University of Chicago working on the BREAD axion dark matter quantum sensing experiment.
 
-After spending a year at Fermilab and UChicago working on a dark matter quantum sensing experiment, I joined the Lawrence Berkeley National Lab [Quantum Measurements Group](https://quantum-measurement.lbl.gov/) under Dr. Daniel Carney. Most recently, I have been engaged in a bachelor's thesis on quantum measurement theory in holography. This approach can then be extended to characterize observables in theories of quantum gravity relative to measurements that an observer could make.
+<!-- This approach can then be extended to characterize observables in theories of quantum gravity relative to measurements that an observer could make. -->
 
 <!-- Part of this work will involve simulating quantum information scrambling on superconducting qutrits in collaboration with the [Advanced Quantum Testbed](https://aqt.lbl.gov/).  -->
 
-Within philosophy, some particular topics of iterest include the philosophy of lawhood, relational and process metaphysics, and phenomenology. Broadly speaking, I am also curious about the relationship between philosophy and physics. 
+Within philosophy, some topics I am interested in include the philosophy of lawhood, relational and process metaphysics, and phenomenology. Broadly speaking, I am also curious about the relationship between philosophy and physics.
 
 <!-- Previously, I performed particle physics simulations for the upcoming quantum sensing experiment [QuIPS (Quantum Invisible Particle Sensor)](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.4.010315). -->
 <!-- 
